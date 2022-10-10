@@ -1,0 +1,14 @@
+{
+    "baseUrl": "https://wikipedia.org",
+    "defaultCommandTimeout": 6000,
+    "pageLoadTimeout": 6000,
+    "watchForFileChanges": false,
+    "chromeWebSecurity": false,
+    "viewportWidth": 1440,
+    "viewportHeight": 800,
+    "env": {
+        "username": "",
+        "password": ""
+    },
+    "projectId": "op2cj9"
+}
