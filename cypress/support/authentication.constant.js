@@ -12,3 +12,9 @@ export const modelSURL = "https://www.tesla.com/models"
 export const model3URL = "https://www.tesla.com/model3"
 export const comparePageUrl = "https://www.tesla.com/compare"
 
+export const googleUrl="https://www.google.com"
+export const udemyUrl="https://www.udemy.com/"
+
+export const github="https://www.github.com/"
+export const githubloginUrl='https://github.com/login'
+
